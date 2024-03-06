@@ -1,5 +1,5 @@
 import unittest
-from ..main.lab import even_or_odd
+from src.main.lab import even_or_odd
 
 class TestEvenOrOdd(unittest.TestCase):
 
